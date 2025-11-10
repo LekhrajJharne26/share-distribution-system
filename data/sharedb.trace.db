@@ -1,6 +1,0 @@
-2025-11-10 16:29:50.080255+05:30 jdbc[13]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]PARTICIPANT"; expected "PREPARE"; SQL statement:
-PARTICIPANT [42001-232]
-2025-11-10 17:47:41.162337+05:30 jdbc[23]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM INFORMATION_SCHEMA.CHECK_CONSTRAINTS INFORMATION_SCHEMA[*].ENUM_VALUES"; SQL statement:
-SELECT * FROM INFORMATION_SCHEMA.CHECK_CONSTRAINTS INFORMATION_SCHEMA.ENUM_VALUES [42000-232]
